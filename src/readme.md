@@ -1,0 +1,1 @@
+Run the roslaunch file named "dead_reckoning.launch" in the imu_driver. Give param values for port_imu and port_gps for imu and gps ports respectively. The analysis script is imu_calibration.py in the analysis folder.
